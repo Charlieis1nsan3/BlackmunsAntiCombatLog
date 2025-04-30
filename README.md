@@ -4,9 +4,12 @@ Welcome to **BlackmunsAntiCombatLog**, this is a anti Combat log plugin for mine
 
 building
 -
-**1.** 'git clone https://github.com/Charlieis1nsan3/BlackmunsAntiCombatLog/'
-**2.** 'cd BlackmunsAntiCombatLog'
-**3.** 'mvn clean package'
+**1.** git clone https://github.com/Charlieis1nsan3/BlackmunsAntiCombatLog/
+
+**2.** cd BlackmunsAntiCombatLog
+
+**3.** mvn clean package
 
 
 Then the plugin should be located in the "target" folder.
+If you want a prebuilt one, just go into releases.
