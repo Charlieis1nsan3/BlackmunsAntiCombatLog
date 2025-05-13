@@ -1,0 +1,11 @@
+name: BlackmunsAntiCombatLog
+version: 1.0
+main: Blackmuns.AntiCombat.Log.BlackmunsAntiCombatLog
+api-version: 1.20.4
+description: A Plugin made for galaxy prisons, :P. Also helps for anti C-Logging
+author: blackmun
+
+commands:
+  clog:
+   description: Combat Log command
+   usage: /clog time <duration>
